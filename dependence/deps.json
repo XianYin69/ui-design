@@ -11,12 +11,12 @@
       "source_url_status": "verified"
     },
     {
-      "name": "web-design-guidelines",
+      "name": "web-design-expert",
       "type": "skill",
-      "source_url": "local://web-design-guidelines",
+      "source_url": "local://web-design-expert",
       "license": "MIT",
       "version": "local",
-      "install": "sms:install web-design-guidelines",
+      "install": "sms:install web-design-expert",
       "checked_at": "2026-09-29T23:46",
       "source_url_status": "verified"
     },
@@ -31,12 +31,12 @@
       "source_url_status": "verified"
     },
     {
-      "name": "code-guidelines",
+      "name": "general-software-dev",
       "type": "skill",
-      "source_url": "local://code-guidelines",
+      "source_url": "local://general-software-dev",
       "license": "unknown",
       "version": "local",
-      "install": "sms:install code-guidelines",
+      "install": "sms:install general-software-dev",
       "checked_at": "2026-09-29T23:46",
       "source_url_status": "verified"
     },
